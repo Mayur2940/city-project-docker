@@ -3,11 +3,13 @@ package com.cg.city.service;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import com.cg.city.dao.CityDao;
 import com.cg.city.entity.City;
 import com.cg.city.repository.CityRepository;
 
+@Service
 public class CityService implements CityDao{
 
 	@Autowired
