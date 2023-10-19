@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-public class CityEntity {
+public class City {
 
 	@Id
 	private int cityPinCode;
