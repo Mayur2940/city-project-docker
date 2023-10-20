@@ -1,5 +1,5 @@
-1)String Springboot Project [46330759]
-2)Add dependency[Web,JPA,Postgress]
+1)String Springboot Project [46330759CityProject]
+2)Add dependency[Web,JPA,Postgress,Lombok]
 3)Follow Package Structure(dao,model,controller,service,repository)
 4)Add Dockerfile in your project
 # FROM maven:3.8.5-openjdk-17 # for Java 17
